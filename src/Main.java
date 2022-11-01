@@ -1,9 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        var friend=19;
-        friend+=2;
-        friend/=7;
-
-        System.out.println(friend );
+        var  frog=3.5;
+         frog=frog*10;
+         frog=frog/3.5;
+frog+=4; System.out.println( frog );
     }
 }
